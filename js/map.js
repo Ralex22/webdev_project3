@@ -17,7 +17,7 @@
   });
 
   var infoWindow = new google.maps.InfoWindow({
-    content: "<h>Boston</h2><p>This is Boston, home of seafood</p>",
+    content: "<h>Turkistan Region</h2><p>This is Turkistan Region.</p>",
   });
 
   marker.addListener("click", function () {
