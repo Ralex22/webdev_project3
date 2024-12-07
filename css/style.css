@@ -1,7 +1,7 @@
 #wrapper {
   width: 800px;
   height: 600px;
-  background-color: #05677a;
+  background-color: #08bd65;
   margin:0 auto;
   overflow: hidden;
 }
@@ -65,8 +65,8 @@ nav {
 
 body {
   font-family: 'Roboto', Arial, sans-serif;
-  background-color: #05677a;
-  color: #031c21;
+  background-color:#08bd65;
+  color: #780505;
   padding: 1rem;
   margin-top: 5rem;
 }
